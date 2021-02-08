@@ -1,0 +1,5 @@
+C:\ashish\code\CardGame.Entities\bin\Debug\CardGame.Entities.dll
+C:\ashish\code\CardGame.Entities\bin\Debug\CardGame.Entities.pdb
+C:\ashish\code\CardGame.Entities\obj\Debug\CardGame.Entities.csproj.CoreCompileInputs.cache
+C:\ashish\code\CardGame.Entities\obj\Debug\CardGame.Entities.dll
+C:\ashish\code\CardGame.Entities\obj\Debug\CardGame.Entities.pdb

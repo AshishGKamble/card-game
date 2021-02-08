@@ -1,0 +1,11 @@
+C:\ashish\code\CardGame.Interfaces\bin\Debug\CardGame.Interfaces.dll
+C:\ashish\code\CardGame.Interfaces\bin\Debug\CardGame.Interfaces.pdb
+C:\ashish\code\CardGame.Interfaces\bin\Debug\CardGame.Entities.dll
+C:\ashish\code\CardGame.Interfaces\bin\Debug\CardGame.Entities.pdb
+C:\ashish\code\CardGame.Interfaces\obj\Debug\CardGame.Interfaces.csprojAssemblyReference.cache
+C:\ashish\code\CardGame.Interfaces\obj\Debug\CardGame.Interfaces.csproj.CoreCompileInputs.cache
+C:\ashish\code\CardGame.Interfaces\obj\Debug\CardGame.Interfaces.csproj.CopyComplete
+C:\ashish\code\CardGame.Interfaces\obj\Debug\CardGame.Interfaces.dll
+C:\ashish\code\CardGame.Interfaces\obj\Debug\CardGame.Interfaces.pdb
+C:\ashish\code\CardGame.Interfaces\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ashish\code\CardGame.Interfaces\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
